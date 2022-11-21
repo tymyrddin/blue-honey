@@ -1,0 +1,44 @@
+h1 {
+  color: #009900;
+}
+
+a {
+  color: #009900;
+}
+
+a:hover {
+  color: #00FF00;
+}
+
+.wy-nav .wy-menu-vertical header {
+  color: #00CC00;
+}
+
+.wy-menu-vertical header, .wy-menu-vertical p.caption {
+  color: #00CC00;
+}
+
+.wy-side-nav-search {
+  background-color: #333333;
+  color: #fcfcfc;
+}
+
+.wy-side-nav-search input[type="text"] {
+  width: 100%;
+  border-radius: 0;
+  padding: 6px 12px;
+  border-color: #009900;
+}
+
+.highlight {
+  background: #333;
+  color: #ddd;
+}
+
+.wy-nav-top {
+  background: #009900;
+}
+
+.rst-content code.literal, .rst-content tt.literal {
+  color: #009900;
+}

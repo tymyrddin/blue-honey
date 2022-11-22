@@ -4,7 +4,8 @@ T-Pot offers docker images for the following honeypots:
 
 ## Databases
 
-* [ElasticPot](https://gitlab.com/bontchev/elasticpot)
+* [ElasticPot](https://gitlab.com/bontchev/elasticpot) - A honeypot simulating a vulnerable Elasticsearch server 
+opened to the Internet.
 * [RedisHoneyPot](https://github.com/cypwnpwnsocute/RedisHoneyPot) - High Interaction Honeypot Solution for Redis protocol.
 
 ## Email

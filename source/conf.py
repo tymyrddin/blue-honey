@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Threat landscape'
+project = 'Deception technology'
 copyright = '2022, Ty Myrddin'
 author = 'Ty Myrddin'
 release = '0.1'
@@ -53,7 +53,7 @@ html_theme_options = {
     'titles_only': False
 }
 
-html_title = "Threat landscape"
+html_title = "Deception technology"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 

@@ -12,6 +12,9 @@ minimising damage.
 
 ## How?
 
+Most of these open source honeypots can be set up in a lab in a weekend, including T-pot. Then use red-team tactics 
+to learn what kind of telemetry you might get from the different honeypots. 
+
 * [Clients](clients.md)
 * [Databases](databases.md)
 * [ICS/SCADA](ics.md)
@@ -19,3 +22,5 @@ minimising damage.
 * [Network services](network.md)
 * [Web applications](webapps.md)
 * [T-Pot framework](tpot.md)
+
+If you manage to fingerprint any of the honeypots, make sure to let the creators know.

@@ -34,12 +34,16 @@ be learned from to protect people and organisations better.
 .. toctree::
    :maxdepth: 1
    :includehidden:
-   :caption: Honeypots
+   :caption: Deception technology
 
-   docs/honeypots/README.md
-   docs/honeypots/client.md
-   docs/honeypots/database.md
-   docs/honeypots/email.md
+   docs/deception/README.md
+   docs/deception/clients.md
+   docs/deception/databases.md
+   docs/deception/ics.md
+   docs/deception/emails.md
+   docs/deception/network.md
+   docs/deception/webapps.md
+   docs/deception/tpot.md
 
 .. toctree::
    :caption: Links

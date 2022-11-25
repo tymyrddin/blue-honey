@@ -2,7 +2,7 @@ Deception technology
 ===========================================
 
 With deception technology, the environment is populated with decoys: fake endpoints, files, services, databases, users,
-computers, and other resources that mimic assets. The intent is to To lure adversaries away from legitimate targets
+computers, and other resources that mimic assets. The intent is to lure adversaries away from legitimate targets
 and detect intruders in the early stages of an attack, both key to minimising damage.
 
 .. toctree::
@@ -37,4 +37,4 @@ and detect intruders in the early stages of an attack, both key to minimising da
 .. toctree::
    :caption: Links
 
-   Green Team <https://tymyrddin.github.io/green/>
+   Blue Team <https://tymyrddin.github.io/blue/>

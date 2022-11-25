@@ -1,21 +1,21 @@
 h1 {
-  color: #009900;
+  color: #0066DD;
 }
 
 a {
-  color: #009900;
+  color: #0066DD;
 }
 
 a:hover {
-  color: #00FF00;
+  color: #0066FF;
 }
 
 .wy-nav .wy-menu-vertical header {
-  color: #00CC00;
+  color: #0066DD;
 }
 
 .wy-menu-vertical header, .wy-menu-vertical p.caption {
-  color: #00CC00;
+  color: #0066DD;
 }
 
 .wy-side-nav-search {
@@ -25,9 +25,9 @@ a:hover {
 
 .wy-side-nav-search input[type="text"] {
   width: 100%;
-  border-radius: 0;
+  border-radius: 0px;
   padding: 6px 12px;
-  border-color: #009900;
+  border-color: #0066DD;
 }
 
 .highlight {
@@ -36,9 +36,9 @@ a:hover {
 }
 
 .wy-nav-top {
-  background: #009900;
+  background: #0066DD;
 }
 
 .rst-content code.literal, .rst-content tt.literal {
-  color: #009900;
+  color: #0066DD;
 }

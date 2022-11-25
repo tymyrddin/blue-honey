@@ -1,7 +1,7 @@
-# Threat landscapes
+# Deception technology
 
-![Publish Threat landscapes using Sphinx](https://github.com/tymyrddin/green-collect/workflows/Publish%20Threat%20landscapes%20using%20Sphinx/badge.svg?branch=main)
- Deployed: https://tymyrddin.github.io/green-collect/
+![Publish Honey using Sphinx](https://github.com/tymyrddin/blue-honey/workflows/Publish%20Honey%20using%20Sphinx/badge.svg?branch=main)
+ Deployed: https://tymyrddin.github.io/blue-honey/
 
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
@@ -26,7 +26,7 @@ $ make html
 
 This project welcomes contributions and suggestions. 
 
-[Open an issue here](https://github.com/tymyrddin/green-collect/issues)
+[Open an issue here](https://github.com/tymyrddin/blue-honey/issues)
 
 ## Mind
 

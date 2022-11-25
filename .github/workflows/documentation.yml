@@ -1,4 +1,4 @@
-name: Publish Threat landscapes using Sphinx
+name: Publish Honey using Sphinx
 
 on:
   push:

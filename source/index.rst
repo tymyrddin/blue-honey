@@ -8,15 +8,14 @@ and detect intruders in the early stages of an attack, both key to minimising da
 .. toctree::
    :maxdepth: 1
    :includehidden:
-   :caption: Honeypots
+   :caption: Cowrie
 
-   docs/honey/README.md
-   docs/honey/types.md
-   docs/honey/cowrie.md
-   docs/honey/ssh.md
-   docs/honey/bots.md
-   docs/honey/ident.md
-   docs/honey/tunnels.md
+   docs/cowrie/README.md
+   docs/cowrie/types.md
+   docs/cowrie/nutshell.md
+   docs/cowrie/ssh.md
+   docs/cowrie/bots.md
+   docs/cowrie/tunnels.md
 
 .. toctree::
    :maxdepth: 1

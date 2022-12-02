@@ -18,9 +18,8 @@ and assist with generating effective defensive measures.
 ## How?
 
 * [Types of honeypots](types.md)
-* [Cowrie](cowrie.md)
+* [Cowrie in a nutshell](nutshell.md)
 * [Attacks against SSH](ssh.md)
-* [Typical bot activity](bots.md)
-* [Identification techniques](ident.md)
+* [Bot intrusions](bots.md)
 * [SSH tunnelling](tunnels.md)
 

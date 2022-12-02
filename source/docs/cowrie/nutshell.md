@@ -23,8 +23,8 @@ be found in, for example:
 
 The amount of data collected by honeypots, especially external deployments can quickly exceed the point where it is 
 no longer practical to parse manually. It is often worth deploying Honeypots alongside a logging platform like the 
-[ELK stack](blue-siem:docs/elk/README). [Log aggregation platforms]((blue-siem:index)) can also provide live monitoring 
-capabilities and alerts. This is particularly beneficial when deploying honeypots with the intent to respond to 
+[ELK stack](blue-siem:docs/elk/README). Other [SIEM platforms]((blue-siem:index)) can provide live monitoring 
+capabilities and alerts. This can be particularly beneficial when deploying honeypots with the intent to respond to 
 attacks rather than to collect data.
 
 ## Resources

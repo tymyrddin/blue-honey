@@ -8,6 +8,19 @@ and detect intruders in the early stages of an attack, both key to minimising da
 .. toctree::
    :maxdepth: 1
    :includehidden:
+   :caption: Honeypots
+
+   docs/honey/README.md
+   docs/honey/types.md
+   docs/honey/cowrie.md
+   docs/honey/ssh.md
+   docs/honey/bots.md
+   docs/honey/ident.md
+   docs/honey/tunnels.md
+
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
    :caption: T-Pot
 
    docs/tpot/README.md
@@ -17,7 +30,7 @@ and detect intruders in the early stages of an attack, both key to minimising da
 .. toctree::
    :maxdepth: 1
    :includehidden:
-   :caption: Interesting pots
+   :caption: Other interesting pots
 
    docs/pots/README.md
    docs/pots/hermes.md

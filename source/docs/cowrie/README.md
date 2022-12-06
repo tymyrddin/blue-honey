@@ -17,7 +17,6 @@ and assist with generating effective defensive measures.
 
 ## How?
 
-* [Types of honeypots](types.md)
 * [Cowrie in a nutshell](nutshell.md)
 * [Attacks against SSH](ssh.md)
 * [Bot intrusions](bots.md)

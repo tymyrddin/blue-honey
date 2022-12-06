@@ -20,5 +20,6 @@ red-team tactics to learn what kind of telemetry one might get from the differen
 ## How?
 
 * [T-Pot framework](tpot.md)
+* [Types of honeypots](types.md)
 * [Honeypot dockers](honeypots.md)
 

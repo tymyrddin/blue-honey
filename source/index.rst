@@ -8,23 +8,23 @@ and detect intruders in the early stages of an attack, both key to minimising da
 .. toctree::
    :maxdepth: 1
    :includehidden:
-   :caption: Cowrie
-
-   docs/cowrie/README.md
-   docs/cowrie/types.md
-   docs/cowrie/nutshell.md
-   docs/cowrie/ssh.md
-   docs/cowrie/bots.md
-   docs/cowrie/tunnels.md
-
-.. toctree::
-   :maxdepth: 1
-   :includehidden:
    :caption: T-Pot
 
    docs/tpot/README.md
    docs/tpot/tpot.md
+   docs/tpot/types.md
    docs/tpot/honeypots.md
+
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
+   :caption: Cowrie
+
+   docs/cowrie/README.md
+   docs/cowrie/nutshell.md
+   docs/cowrie/ssh.md
+   docs/cowrie/bots.md
+   docs/cowrie/tunnels.md
 
 .. toctree::
    :maxdepth: 1

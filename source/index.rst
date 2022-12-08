@@ -49,4 +49,4 @@ and detect intruders in the early stages of an attack, both key to minimising da
 .. toctree::
    :caption: Links
 
-   Blue Team <https://tymyrddin.github.io/blue/>
+   Blue Team <https://blue.tymyrddin.dev/>

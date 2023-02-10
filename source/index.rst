@@ -45,8 +45,3 @@ and detect intruders in the early stages of an attack, both key to minimising da
    :caption: Framing alternatives
 
    docs/framed/README.md
-
-.. toctree::
-   :caption: Links
-
-   Blue Team <https://blue.tymyrddin.dev/>

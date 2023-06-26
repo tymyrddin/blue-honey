@@ -23,3 +23,7 @@ Once deployed, honeypots can also be categorised by the exact location of deploy
 
 * Internal honeypots are deployed inside a LAN. This type can act as a way to monitor a network for threats originating from the inside, for example, attacks originating from trusted personnel or attacks that by-parse firewalls like phishing attacks. Ideally, these honeypots should never be compromised as this would indicate a significant breach.
 * External honeypots are deployed on the open internet and are used to monitor attacks from outside the LAN. These honeypots are able to collect much more data on attacks since they are effectively guaranteed to be under attack at all times.
+
+## Cyber kill chain
+
+A ***must read***: [Three Decades of Deception Techniques in Active Cyber Defense - Retrospect and Outlook](https://arxiv.org/pdf/2104.03594.pdf) uses a tailored cyber kill chain model which can reflect the current threat landscape and a four-layer deception stack, a two-dimensional taxonomy is developed, based on which deception techniques are classified.

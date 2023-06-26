@@ -1,47 +1,43 @@
 Deception technology
 ===========================================
 
-With deception technology, the environment is populated with decoys: fake endpoints, files, services, databases, users,
-computers, and other resources that mimic assets. The intent is to lure adversaries away from legitimate targets
-and detect intruders in the early stages of an attack, both key to minimising damage.
+With deception technology, the environment is populated with decoys: fake endpoints, files, services, databases, users, computers, and other resources that mimic assets. The intent is to lure adversaries away from legitimate targets and detect intruders in the early stages of an attack, both key to minimising damage.
+
+A honeypot is a deliberately vulnerable security tool designed to attract attackers and record the actions of adversaries. Honeypots can be used in production in a defensive role to alert administrators of potential breaches and to distract attackers away from real infrastructure. Honeypots can also be used for researching PTTs (procedures, tools and techniques) of adversaries and assist with generating effective defensive measures.
 
 .. toctree::
    :maxdepth: 1
    :includehidden:
-   :caption: T-Pot
+   :caption: Notes
 
-   docs/tpot/README.md
-   docs/tpot/tpot.md
-   docs/tpot/types.md
-   docs/tpot/honeypots.md
-
-.. toctree::
-   :maxdepth: 1
-   :includehidden:
-   :caption: Cowrie
-
-   docs/cowrie/README.md
-   docs/cowrie/nutshell.md
-   docs/cowrie/ssh.md
-   docs/cowrie/bots.md
-   docs/cowrie/tunnels.md
+   docs/notes/README.md
+   docs/notes/taxonomies.md
+   docs/notes/roadmaps.md
+   docs/notes/concealed.md
+   docs/notes/detection.md
 
 .. toctree::
    :maxdepth: 1
    :includehidden:
-   :caption: Other interesting pots
+   :caption: Deployment
 
-   docs/pots/README.md
-   docs/pots/hermes.md
-   docs/pots/owasp.md
-   docs/pots/rdpy.md
-   docs/pots/shiva.md
-   docs/pots/thug.md
-   docs/pots/yalih.md
+   docs/deploy/README.md
+   docs/deploy/tpot.md
+   docs/deploy/cowrie.md
+
+----
 
 .. toctree::
    :maxdepth: 1
    :includehidden:
-   :caption: Framing alternatives
+   :caption: Keeping an eye on
 
-   docs/framed/README.md
+   Hermes <https://github.com/avast/hermes>
+   OWASP’s Honeypot Project <https://owasp.org/www-project-honeypot/>
+   SHIVA Spampot <https://github.com/shiva-spampot/shiva>
+   Thug <https://github.com/buffer/thug>
+   CyberTrap <https://cybertrap.com/deception-technologie/>
+   Attivo BOTsink <https://attivonetworks.com/product/attivo-botsink/>
+   Morphisec <https://www.morphisec.com/how-it-works>
+   PacketViper <https://www.packetviper.com/solutions/software/>
+   TrapX DeceptionGrid <http://trapx.com/products/deceptiongrid/>

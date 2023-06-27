@@ -4,13 +4,31 @@
 
 ![Web honeypots](../../_static/images/web.png)
 
+The in 2014 proposed ***[Aggressive Web honeypot](https://ieeexplore.ieee.org/document/7065744)*** (Supeno Djanali et al.) is a low-interaction web honeypot equipped with obfuscated javascript code to detect cross-site scripting and SQL injection. The proposed framework is able to complement the limitation in the existing honeypot such as Glastopf, a low-interactive honeypot and HIHAT, a high-interactive honeypot.
+
+The goal of the [OWASP Honeypot Project](https://owasp.org/www-project-honeypot/) is to identify emerging attacks against web applications and report them to the community, in order to facilitate protection against such targeted attacks. It is based around the earlier [OWASP/WASC Distributed Web Honeypots Project](https://github.com/SpiderLabs/owasp-distributed-web-honeypots). 
+
+A client honeypot is a honeypot that actively searches for malicious or compromised servers. HoneyMonkey (dead since 2010) was a web browser based (IE) high interaction client honeypot built by Microsoft in 2005. It detected attacks on clients by monitoring files, registry, and processes. 
+
+[Thug](https://github.com/buffer/thug) is a Python low-interaction honeyclient aimed at mimicing the behaviour of a web browser in order to detect and emulate malicious contents. It is actively being developed.
+
 ## Worm detection
+
+Signature-based IDS is commonly included either as the main IDS or part of the IDS system.
 
 ![Worm honeypots](../../_static/images/worm.png)
 
+The Aho-Corasick algorithm used in ***Zero-day polymorphic worms honeypot*** stands out from the crowd. The Aho-Corasick Algorithm can generate signatures even if not all the variant of the polymorphic worm is captured.
+
 ## Bot detection
 
+The implementation of a bot detection honeypot can be for studying its origin or can be used to contain the DDoS attack and keep the real server free from it. 
+
 ![Bot honeypots](../../_static/images/bot.png)
+
+The ***Hybrid honeypot*** (Swapnali Sundar Sadamate) uses a client-server architecture. It consists of a server storing information collected by the honeypot, a honeypot to capture the attack information, a web-management interface and a threshold-based anomaly IDS system. The IDS system is implemented at the gateway of the network to detect the malicious traffic. The malicious packet is redirected to the honeypot. The honeypot is installed with sebek to record attacker behaviour, dionaea to collect the malware information and snort in the verification process to collect and analyse the packet received.
+
+The ***ODAIDS-HPS honeypot*** (Rajalakshmi Selvaraj) consists of an outlier IDS to detect the DoS packet, attack classifier and honeypot. The IDS adopts distance of the nearest neighbour method and requires a set of pure normal data to train the system.
 
 ## Honeytoken
 
@@ -71,10 +89,6 @@ The ***Shadow honeypot*** (Anagnostakis Kostas) uses three different anomaly IDS
 ***AIPS*** (Maros Barabas) attempts to detect attacks with signature datasets of abnormal behaviour with a single IDS. High memory usage and could suffer from high false positive rates.
 
 I have not found many new developments for these types of honeypots.
-
-## Concealment
-
-![Concealed honeypots](../../_static/images/concealment.png)
 
 ## Forensics in honeypots
 

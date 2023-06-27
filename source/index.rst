@@ -38,3 +38,31 @@ A honeypot is a deliberately vulnerable security tool designed to attract attack
    Glutton <https://github.com/mushorg/glutton>
    Snare and Tanner <https://github.com/mushorg/tanner>
    OWASP’s Honeypot Project <https://owasp.org/www-project-honeypot/>
+
+
+----
+
+Books
+---------------------------
+
+.. card-carousel:: 3
+
+    .. card::
+        :link: https://chrissanders.org/2020/09/idh-release/
+
+        .. image:: _static/images/bookcovers/sanders-honeypots.png
+
+    .. card::
+        :link: https://www.routledge.com/Implementing-Enterprise-Cybersecurity-with-Opensource-Software-and-Standard/Handa-Negi-Shukla/p/book/9788770224239
+
+        .. image:: _static/images/bookcovers/enterprise-cyber-security.png
+
+    .. card::
+        :link: https://www.routledge.com/Real-Life-Applications-of-the-Internet-of-Things-Challenges-Applications/Mangla-Kumar-Mehta-Bhushan-Mohanty/p/book/9781774638477
+
+        .. image:: _static/images/bookcovers/real-life-iot.png
+
+    .. card::
+        :link: https://www.packtpub.com/product/network-security-strategies/9781789806298
+
+        .. image:: _static/images/bookcovers/network-security-strategies.png

@@ -14,4 +14,5 @@ Most of the open source honeypot dockers can be set up in a lab in a weekend, in
 
 * [T-Pot framework](tpot.md)
 * [Cowrie](cowrie.md)
+* [GreedyBear](greedybear.md)
 

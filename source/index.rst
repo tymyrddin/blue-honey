@@ -24,6 +24,7 @@ A honeypot is a deliberately vulnerable security tool designed to attract attack
    docs/deploy/README.md
    docs/deploy/tpot.md
    docs/deploy/cowrie.md
+   docs/deploy/greedybear.md
 
 ----
 
@@ -32,12 +33,8 @@ A honeypot is a deliberately vulnerable security tool designed to attract attack
    :includehidden:
    :caption: Keeping an eye on
 
-   Hermes <https://github.com/avast/hermes>
-   OWASP’s Honeypot Project <https://owasp.org/www-project-honeypot/>
-   SHIVA Spampot <https://github.com/shiva-spampot/shiva>
    Thug <https://github.com/buffer/thug>
-   CyberTrap <https://cybertrap.com/deception-technologie/>
-   Attivo BOTsink <https://attivonetworks.com/product/attivo-botsink/>
-   Morphisec <https://www.morphisec.com/how-it-works>
-   PacketViper <https://www.packetviper.com/solutions/software/>
-   TrapX DeceptionGrid <http://trapx.com/products/deceptiongrid/>
+   Conpot <https://github.com/mushorg/conpot>
+   Glutton <https://github.com/mushorg/glutton>
+   Snare and Tanner <https://github.com/mushorg/tanner>
+   OWASP’s Honeypot Project <https://owasp.org/www-project-honeypot/>

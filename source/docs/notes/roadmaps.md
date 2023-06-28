@@ -90,6 +90,13 @@ The ***Shadow honeypot*** (Anagnostakis Kostas) uses three different anomaly IDS
 
 I have not found many new developments for these types of honeypots.
 
+## Concealment
+
+![concealment](../../_static/images/concealment.png)
+
+Apate is a Linux Kernel Module for hardening High Interaction Honeypots. It works on a system call level, is able to log, block and manipulate these calls, and uses an easy to use yet powerful configuration language. The evaluation shows that Apate has a moderate performance overhead and can be used in productive honeypot systems. Apate is also stealthy enough for most common usage
+scenarios. Overall, Apate is an ideal basis and important building block for upcoming High Interaction Honeypot Systems.
+
 ## Forensics in honeypots
 
 ![Forensics](../../_static/images/forensic-honeypot.png)

@@ -39,7 +39,6 @@ A honeypot is a deliberately vulnerable security tool designed to attract attack
    Snare and Tanner <https://github.com/mushorg/tanner>
    OWASP’s Honeypot Project <https://owasp.org/www-project-honeypot/>
 
-
 ----
 
 Books

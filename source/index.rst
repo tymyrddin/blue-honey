@@ -30,6 +30,8 @@ Vet all tactics in this strategy with a lawyer or legal team first. And whatever
    docs/notes/roadmaps.md
    docs/notes/detection.md
    docs/notes/concealed.md
+   docs/notes/honeyports.md
+   docs/notes/honeyclients.md
 
 ----
 

@@ -8,9 +8,7 @@ The in 2014 proposed ***[Aggressive Web honeypot](https://ieeexplore.ieee.org/do
 
 The goal of the [OWASP Honeypot Project](https://owasp.org/www-project-honeypot/) is to identify emerging attacks against web applications and report them to the community, in order to facilitate protection against such targeted attacks. It is based around the earlier [OWASP/WASC Distributed Web Honeypots Project](https://github.com/SpiderLabs/owasp-distributed-web-honeypots). 
 
-A client honeypot is a honeypot that actively searches for malicious or compromised servers. HoneyMonkey (dead since 2010) was a web browser based (IE) high interaction client honeypot built by Microsoft in 2005. It detected attacks on clients by monitoring files, registry, and processes. 
-
-[Thug](https://github.com/buffer/thug) is a Python low-interaction honeyclient aimed at mimicing the behaviour of a web browser in order to detect and emulate malicious contents. It is actively being developed.
+A [client honeypot](honeyclients.md) is a honeypot that actively searches for malicious or compromised servers. 
 
 ## Worm detection
 
@@ -94,8 +92,7 @@ I have not found many new developments for these types of honeypots.
 
 ![concealment](../../_static/images/concealment.png)
 
-Apate is a Linux Kernel Module for hardening High Interaction Honeypots. It works on a system call level, is able to log, block and manipulate these calls, and uses an easy to use yet powerful configuration language. The evaluation shows that Apate has a moderate performance overhead and can be used in productive honeypot systems. Apate is also stealthy enough for most common usage
-scenarios. Overall, Apate is an ideal basis and important building block for upcoming High Interaction Honeypot Systems.
+Apate is a Linux Kernel Module for hardening High Interaction Honeypots. It works on a system call level, is able to log, block and manipulate these calls, and uses an easy to use yet powerful configuration language. The evaluation shows that Apate has a moderate performance overhead and can be used in productive honeypot systems. Apate is also stealthy enough for most common usage scenarios. Overall, Apate is an ideal basis and important building block for upcoming High Interaction Honeypot Systems.
 
 ## Forensics in honeypots
 

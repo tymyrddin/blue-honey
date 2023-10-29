@@ -1,4 +1,4 @@
-# Taxonomies
+# Taxonomies of honeypots
 
 A wide variety of honeypots exist, and some classification can be helpful.
 

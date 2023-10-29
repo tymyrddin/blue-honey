@@ -16,7 +16,8 @@ Wrong design decisions may result in collecting irrelevant information or even e
 
 ## How?
 
+* [Tactics](tactics.md)
 * [Taxonomies](taxonomies.md)
 * [Roadmaps](roadmaps.md)
-* [Avoiding honeypot detection](concealed.md)
 * [Detecting honeypots](detection.md)
+* [Avoiding honeypot detection](concealed.md)
